@@ -18,7 +18,7 @@ Step 2:
 Add the dependency to your application level gradle file
 ```groovy
 	dependencies {
-	        compile 'com.github.MertNYuksel:FloatingZoomView:0.1.0'
+	        compile 'com.github.MertNYuksel:FloatingZoomView:0.1.3'
 	}
 ```
 
